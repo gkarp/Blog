@@ -1,7 +1,8 @@
 *Blog.egg-info
 *venv
-blog_db_structure.docx
-blog_structure.docx
-Blog/db_testing.py
-Blog/blog.db
+*blog_db_structure.docx
+*blog_structure.docx
+*Blog/db_testing.py
+*Blog/blog.db
 *DO_NOT_COMMIT.py
+*.pyc
